@@ -1,4 +1,4 @@
-# AWWWARDS
+# TODO
 
 A web application built on Django as a mockup for the site (awwwards), a search function and sorts images by categories
 
